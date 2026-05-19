@@ -3,13 +3,7 @@
 
   <br />
 
-  <a href="https://github.com/maomaozhe?tab=followers">
-    <img src="https://img.shields.io/github/followers/maomaozhe?style=for-the-badge&logo=github&label=Followers&color=00E5FF&labelColor=0B1020" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/maomaozhe">
-    <img src="https://komarev.com/ghpvc/?username=maomaozhe&style=for-the-badge&color=7C3AED&label=Profile+views" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Backend%20Builder-Java%20%7C%20Python%20%7C%20Go-FFB000?style=for-the-badge&labelColor=0B1020" alt="Backend builder badge" />
+  <img src="./assets/profile-badges.svg" width="86%" alt="Backend, AI tooling, and systems badges" />
 </div>
 
 <br />
@@ -81,7 +75,7 @@ Systems Learning       MIT 6.824 / Go / databases / fault tolerance
 ## Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,ts,js,vue,spring,redis,mysql,docker,git,github,linux,vscode&perline=7" alt="Tech stack icons" />
+  <img src="./assets/tech-arsenal.svg" width="95%" alt="Tech arsenal" />
 </div>
 
 <br />
@@ -93,7 +87,7 @@ Systems Learning       MIT 6.824 / Go / databases / fault tolerance
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maomaozhe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FFB000&point=FFFFFF" width="95%" alt="maomaozhe activity graph" />
+  <img src="./assets/build-rhythm.svg" width="95%" alt="Build rhythm graph" />
 </div>
 
 <br />
@@ -108,10 +102,7 @@ Systems Learning       MIT 6.824 / Go / databases / fault tolerance
 <br />
 
 <div align="center">
-  <a href="https://github.com/maomaozhe">
-    <img src="https://img.shields.io/badge/GitHub-maomaozhe-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub profile link" />
-  </a>
-  <a href="https://github.com/maomaozhe/maomaozhe.github.io">
-    <img src="https://img.shields.io/badge/Blog-maomaozhe.github.io-FFB000?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1020" alt="Blog repository link" />
-  </a>
+  <a href="https://github.com/maomaozhe">GitHub</a>
+  |
+  <a href="https://github.com/maomaozhe/maomaozhe.github.io">Blog</a>
 </div>
