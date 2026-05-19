@@ -89,8 +89,7 @@ Systems Learning       MIT 6.824 / Go / databases / fault tolerance
 ## GitHub Pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maomaozhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFB000&text_color=C9D1D9" alt="maomaozhe GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomaozhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="maomaozhe top languages" />
+  <img src="./assets/github-pulse.svg" width="95%" alt="maomaozhe GitHub pulse board" />
 </div>
 
 <div align="center">
