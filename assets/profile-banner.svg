@@ -28,9 +28,8 @@
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
       .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-      .tiny { font-size: 22px; letter-spacing: 0; }
-      .chip { font-size: 24px; font-weight: 700; }
-      .code { font-size: 23px; }
+      .tiny { font-size: 21px; letter-spacing: 0; }
+      .chip { font-size: 22px; font-weight: 700; }
     </style>
   </defs>
 
@@ -49,35 +48,28 @@
   <text x="207" y="103" class="mono tiny" fill="#8EA3B8">~/github/maomaozhe</text>
 
   <g filter="url(#glow)">
-    <path d="M1082 110H1204L1264 214L1204 318H1082L1022 214L1082 110Z" stroke="#00E5FF" stroke-width="4" opacity="0.95"/>
-    <path d="M1119 158H1167L1191 200L1167 242H1119L1095 200L1119 158Z" stroke="#FFB000" stroke-width="4" opacity="0.95"/>
-    <path d="M1130 288H1238" stroke="#7C3AED" stroke-width="7" stroke-linecap="round"/>
-    <path d="M1188 94V64M1242 136L1268 119M1242 292L1268 309M1044 292L1018 309M1044 136L1018 119" stroke="#00E5FF" stroke-width="5" stroke-linecap="round" opacity="0.78"/>
+    <path d="M1116 112H1228L1284 209L1228 306H1116L1060 209L1116 112Z" stroke="#00E5FF" stroke-width="4" opacity="0.95"/>
+    <path d="M1149 160H1195L1218 200L1195 240H1149L1126 200L1149 160Z" stroke="#FFB000" stroke-width="4" opacity="0.95"/>
+    <path d="M1158 272H1260" stroke="#7C3AED" stroke-width="7" stroke-linecap="round"/>
+    <path d="M1214 94V66M1262 132L1286 116M1262 286L1286 302M1082 286L1058 302M1082 132L1058 116" stroke="#00E5FF" stroke-width="5" stroke-linecap="round" opacity="0.78"/>
   </g>
 
-  <text x="108" y="180" class="sans" font-size="82" font-weight="900" fill="url(#titleGrad)">maomaozhe</text>
-  <text x="112" y="229" class="mono" font-size="30" fill="#00E5FF">backend engineer · AI toolmaker · lifelong shipper</text>
-  <text x="112" y="282" class="sans" font-size="28" fill="#C9D1D9">Building useful systems with Java, Python, Go, TypeScript, agents, databases, and a little controlled chaos.</text>
+  <text x="108" y="176" class="sans" font-size="76" font-weight="900" fill="url(#titleGrad)">maomaozhe</text>
+  <text x="112" y="225" class="mono" font-size="27" fill="#00E5FF">backend engineer · AI toolmaker · lifelong shipper</text>
+  <text x="112" y="272" class="sans" font-size="25" fill="#C9D1D9">Building useful systems with Java, Python, Go, TypeScript,</text>
+  <text x="112" y="305" class="sans" font-size="25" fill="#C9D1D9">agents, databases, and a little controlled chaos.</text>
 
   <g class="mono chip">
-    <rect x="112" y="324" width="133" height="48" rx="14" fill="#101826" stroke="#26324A"/>
-    <text x="138" y="356" fill="#FFB000">Java</text>
-    <rect x="263" y="324" width="159" height="48" rx="14" fill="#101826" stroke="#26324A"/>
-    <text x="289" y="356" fill="#00E5FF">Python</text>
-    <rect x="440" y="324" width="103" height="48" rx="14" fill="#101826" stroke="#26324A"/>
-    <text x="466" y="356" fill="#B794F4">Go</text>
-    <rect x="561" y="324" width="185" height="48" rx="14" fill="#101826" stroke="#26324A"/>
-    <text x="587" y="356" fill="#C9D1D9">AI Agents</text>
-    <rect x="764" y="324" width="205" height="48" rx="14" fill="#101826" stroke="#26324A"/>
-    <text x="790" y="356" fill="#C9D1D9">Distributed</text>
-  </g>
-
-  <g class="mono code" opacity="0.9">
-    <text x="890" y="153" fill="#8EA3B8">while (learning) {</text>
-    <text x="920" y="190" fill="#C9D1D9">build();</text>
-    <text x="920" y="227" fill="#C9D1D9">measure();</text>
-    <text x="920" y="264" fill="#C9D1D9">ship();</text>
-    <text x="890" y="301" fill="#8EA3B8">}</text>
+    <rect x="112" y="334" width="124" height="44" rx="13" fill="#101826" stroke="#26324A"/>
+    <text x="137" y="363" fill="#FFB000">Java</text>
+    <rect x="254" y="334" width="148" height="44" rx="13" fill="#101826" stroke="#26324A"/>
+    <text x="279" y="363" fill="#00E5FF">Python</text>
+    <rect x="420" y="334" width="98" height="44" rx="13" fill="#101826" stroke="#26324A"/>
+    <text x="446" y="363" fill="#B794F4">Go</text>
+    <rect x="536" y="334" width="174" height="44" rx="13" fill="#101826" stroke="#26324A"/>
+    <text x="561" y="363" fill="#C9D1D9">AI Agents</text>
+    <rect x="728" y="334" width="194" height="44" rx="13" fill="#101826" stroke="#26324A"/>
+    <text x="753" y="363" fill="#C9D1D9">Distributed</text>
   </g>
 
   <path d="M88 398H1312" stroke="url(#stroke)" stroke-width="2" opacity="0.6"/>
